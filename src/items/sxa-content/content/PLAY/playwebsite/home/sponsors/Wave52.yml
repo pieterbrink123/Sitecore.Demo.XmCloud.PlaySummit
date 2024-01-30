@@ -38,7 +38,9 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "5a1f6707-d155-4618-b051-966216449b1c"
       Hint: Description
-      Value: "<p>Wave52 is a leading brand in the world of water sports equipment. They provide a wide variety of quality products ranging from surfboards to wetsuits, catering to both professional athletes and recreational users. Their commitment to innovation and performance makes them a perfect fit as a sponsor for the PLAY! Summit Conference, underscoring their dedication to the growth and development of water sports globally.</p>"
+      Value: |
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede posuere.</p>
+        
     - ID: "752f4b39-259c-42b8-a100-fb6123faed7f"
       Hint: Speakers
       Value: "{13F1FD3B-8133-4833-B4D4-6D8CD2D7BEF5}|{5F107763-694B-4E24-B7C7-308180ABABAD}"
@@ -47,7 +49,7 @@ Languages:
       Value: Wave52
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "aed80314-a947-47c6-a69b-7ec711d696c8"
+      Value: "048e9317-4fea-44d2-9e7d-31a9d24aeaf3"
     - ID: "cf42c29f-ee3a-4f06-92ac-10fc51a42099"
       Hint: Level
       Value: Gold

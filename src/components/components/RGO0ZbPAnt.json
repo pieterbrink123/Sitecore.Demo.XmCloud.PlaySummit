@@ -1,0 +1,110 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "p54BP44hiw",
+    "componentId": "RGO0ZbPAnt",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 18,
+    "model": "",
+    "view": "<style data-format-version=\"28\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 6wVbzGa-Dn */ .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 6; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6wVbzGa-Dn\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":6},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"6wVbzGa-Dn\"><div class=\"-has--background\" data-path-src=\"b71510ff4dc94953908ad5f25eac0608.Image.src\"><div class=\"-block--media\" data-path-src=\"c3ddfbb0a7834bce928fda740b15b4e6.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></div><div><h3><var data-path=\"b71510ff4dc94953908ad5f25eac0608.Title\"></var></h3><div class=\"-embed\" data-path=\"b71510ff4dc94953908ad5f25eac0608.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "b71510ff4dc94953908ad5f25eac0608",
+      "c3ddfbb0a7834bce928fda740b15b4e6"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-22T15:05:29.308Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-30T09:03:27.492Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "p54BP44hiw",
+    "componentId": "RGO0ZbPAnt",
+    "name": "Name (1)",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gPs",
+    "revision": 17,
+    "model": "",
+    "view": "<style data-format-version=\"28\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 6wVbzGa-Dn */ .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 6; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6wVbzGa-Dn\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":6},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"6wVbzGa-Dn\"><div class=\"-has--background\" data-path-src=\"b71510ff4dc94953908ad5f25eac0608.Image.src\"><div class=\"-block--media\" data-path-src=\"c3ddfbb0a7834bce928fda740b15b4e6.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></div><div><h3><var data-path=\"b71510ff4dc94953908ad5f25eac0608.Title\"></var></h3><div class=\"-embed\" data-path=\"b71510ff4dc94953908ad5f25eac0608.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "b71510ff4dc94953908ad5f25eac0608",
+      "c3ddfbb0a7834bce928fda740b15b4e6"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-22T15:05:29.308Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-30T08:53:59.763Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "p54BP44hiw",
+    "componentId": "RGO0ZbPAnt",
+    "name": "Name (1)",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPs",
+    "revision": 17,
+    "model": "",
+    "view": "<style data-format-version=\"28\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 6wVbzGa-Dn */ .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"6wVbzGa-Dn\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 6; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6wVbzGa-Dn\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":6},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"6wVbzGa-Dn\"><div class=\"-has--background\" data-path-src=\"b71510ff4dc94953908ad5f25eac0608.Image.src\"><div class=\"-block--media\" data-path-src=\"c3ddfbb0a7834bce928fda740b15b4e6.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></div><div><h3><var data-path=\"b71510ff4dc94953908ad5f25eac0608.Title\"></var></h3><div class=\"-embed\" data-path=\"b71510ff4dc94953908ad5f25eac0608.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "b71510ff4dc94953908ad5f25eac0608",
+      "c3ddfbb0a7834bce928fda740b15b4e6"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-22T15:05:29.308Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-30T08:53:59.763Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  }
+]
