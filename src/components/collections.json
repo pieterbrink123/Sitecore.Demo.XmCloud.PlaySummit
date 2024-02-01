@@ -81,6 +81,45 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "OT-Dh_gdNR",
+        "collectionId": "JYYIXneyeG",
+        "name": "Dynamic Promo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "dfed4457d760457abec1c0dccdc44381"
+        ],
+        "createdAt": "2023-05-29T11:31:03.424Z",
+        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "publishedAt": "2023-08-02T09:19:29.666Z",
+        "modifiedAt": "2024-01-30T09:57:38.069Z",
+        "modifiedBy": {
+          "id": "63f7763376891493a6dfba0a",
+          "name": "Pieter Brinkman",
+          "email": "pieter.brinkman@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png",
+          "givenName": "Pieter",
+          "familyName": "Brinkman"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "OT-Dh_gdNR",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-01-30T09:57:37.349Z",
+            "modifiedAt": "2024-01-30T09:57:37.349Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "FnbXCgP1cr",
         "collectionId": "JYYIXneyeG",
         "name": "Session Promo",
@@ -159,33 +198,6 @@
           "familyName": "Kostadinova"
         },
         "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "OT-Dh_gdNR",
-        "collectionId": "JYYIXneyeG",
-        "name": "Dynamic Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
-        "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
-        "publishedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
       }
     ]
   },
@@ -204,22 +216,22 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "changed",
+        "status": "staged",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": "2023-06-08T13:06:57.252Z",
-        "publishedAt": "2023-06-08T12:50:50.669Z",
-        "modifiedAt": "2024-01-25T08:19:48.362Z",
+        "publishedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedAt": "2023-06-08T13:06:57.252Z",
         "modifiedBy": {
-          "id": "63f7763376891493a6dfba0a",
-          "name": "Pieter Brinkman",
-          "email": "pieter.brinkman@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png",
-          "givenName": "Pieter",
-          "familyName": "Brinkman"
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
         },
         "bundles": []
       },
@@ -229,10 +241,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Large teaser",
         "description": "",
-        "status": "published",
+        "status": "staged",
         "versionCount": 1,
         "stagedVersionCount": 1,
-        "embeddableVersionCount": 2,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:12:34.113Z",
         "stagedAt": "2023-06-08T13:06:24.758Z",
@@ -268,7 +280,7 @@
         "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 2,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": "2023-06-08T14:31:06.461Z",
@@ -290,10 +302,10 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Two product teaser",
         "description": "",
-        "status": "published",
+        "status": "staged",
         "versionCount": 3,
         "stagedVersionCount": 3,
-        "embeddableVersionCount": 4,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
         "stagedAt": "2023-06-08T14:27:31.972Z",
@@ -326,22 +338,22 @@
         "collectionId": "2kDkq3aAw3",
         "name": "Countdown Banner",
         "description": "",
-        "status": "changed",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": null,
+        "stagedAt": "2023-08-03T12:33:41.827Z",
         "publishedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedAt": "2024-01-22T15:16:21.87Z",
+        "modifiedAt": "2023-08-03T12:33:41.827Z",
         "modifiedBy": {
-          "id": "63f7763376891493a6dfba0a",
-          "name": "Pieter Brinkman",
-          "email": "pieter.brinkman@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png",
-          "givenName": "Pieter",
-          "familyName": "Brinkman"
+          "id": "63f77560c538c12a3133eaa8",
+          "name": "Neli Kostadinova",
+          "email": "neli.kostadinova@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
         },
         "bundles": []
       }
@@ -387,31 +399,30 @@
   },
   {
     "libraryId": "generated",
-    "id": "l8r87Pr_Vi",
+    "id": "DiLOZ4Qbtq",
     "name": "demo",
     "isDefault": false,
     "orderIdx": "",
-    "createdAt": "2024-01-22T15:04:42.044Z",
-    "modifiedAt": "2024-01-22T15:04:42.044Z",
+    "createdAt": "2024-01-30T09:58:28.651Z",
+    "modifiedAt": "2024-01-30T09:58:28.651Z",
     "components": [
       {
         "libraryId": "generated",
-        "id": "RGO0ZbPAnt",
-        "collectionId": "l8r87Pr_Vi",
+        "id": "TqCrpIEL9a",
+        "collectionId": "DiLOZ4Qbtq",
         "name": "Promo component",
         "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
+        "status": "published",
+        "versionCount": 4,
+        "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [
-          "b71510ff4dc94953908ad5f25eac0608",
-          "c3ddfbb0a7834bce928fda740b15b4e6"
+          "1381490f9deb4c92a8fa9c6849a8a783"
         ],
-        "createdAt": "2024-01-22T15:04:47.489Z",
-        "stagedAt": "2024-01-30T08:53:59.763Z",
-        "publishedAt": "2024-01-30T08:53:59.763Z",
-        "modifiedAt": "2024-01-30T09:03:27.492Z",
+        "createdAt": "2024-01-30T09:58:38.723Z",
+        "stagedAt": "2024-01-31T19:37:06.143Z",
+        "publishedAt": "2024-01-31T19:37:06.143Z",
+        "modifiedAt": "2024-01-31T19:37:06.143Z",
         "modifiedBy": {
           "id": "63f7763376891493a6dfba0a",
           "name": "Pieter Brinkman",
@@ -424,13 +435,63 @@
           {
             "id": "responsive",
             "libraryId": "generated",
-            "componentId": "RGO0ZbPAnt",
+            "componentId": "TqCrpIEL9a",
             "name": "Default bundle",
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-01-30T08:48:07.341Z",
-            "modifiedAt": "2024-01-30T08:48:07.341Z"
+            "createdAt": "2024-01-30T09:58:48.358Z",
+            "modifiedAt": "2024-01-30T09:58:48.358Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "FtMFkPNSEW",
+    "name": "brussel",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-02-01T13:10:11.713Z",
+    "modifiedAt": "2024-02-01T13:10:11.713Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "AXEXi5fq4j",
+        "collectionId": "FtMFkPNSEW",
+        "name": "democomp",
+        "description": "",
+        "status": "published",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "1381490f9deb4c92a8fa9c6849a8a783"
+        ],
+        "createdAt": "2024-02-01T13:10:20.275Z",
+        "stagedAt": "2024-02-01T13:17:46.293Z",
+        "publishedAt": "2024-02-01T13:17:46.293Z",
+        "modifiedAt": "2024-02-01T13:17:46.293Z",
+        "modifiedBy": {
+          "id": "63f7763376891493a6dfba0a",
+          "name": "Pieter Brinkman",
+          "email": "pieter.brinkman@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png",
+          "givenName": "Pieter",
+          "familyName": "Brinkman"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AXEXi5fq4j",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-02-01T13:10:26.568Z",
+            "modifiedAt": "2024-02-01T13:10:26.568Z"
           }
         ]
       }

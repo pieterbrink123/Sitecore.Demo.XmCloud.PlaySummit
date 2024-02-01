@@ -1,0 +1,13 @@
+﻿---
+ID: "bad1dd78-a0cd-4098-90d8-7b0c9fddae67"
+Parent: "1381490f-9deb-4c92-a8fa-9c6849a8a783"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Short promo/Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fce2a85d-8a14-4836-915e-b78783dbf618"

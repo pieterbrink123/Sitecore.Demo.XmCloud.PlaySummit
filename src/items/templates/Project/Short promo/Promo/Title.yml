@@ -1,0 +1,20 @@
+﻿---
+ID: "4fe0bf7f-27e9-4a5b-a54e-988137f49055"
+Parent: "bad1dd78-a0cd-4098-90d8-7b0c9fddae67"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Short promo/Promo/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78c26503-4bb5-4afc-a286-dbe4f3b95749"

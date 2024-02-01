@@ -1,0 +1,25 @@
+﻿---
+ID: "cb995138-31fd-482f-b90a-f1d08c9f25fd"
+Parent: "090f4246-e913-4dc2-bf2d-9e66e6e09559"
+Template: "1381490f-9deb-4c92-a8fa-9c6849a8a783"
+Path: /sitecore/content/PLAY/playwebsite/Data/ShortPromo/Default Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24a77b15-b568-427d-9e08-b801da89e832"
+      Hint: Text
+      Value: |
+        <p>Unlock an immersive and dynamic experience by visiting our page on your mobile device!</p>
+        <p>Don't miss out on the full spectrum of features tailored for the palm of your hand. </p>
+    - ID: "28e62c9c-c716-4169-9321-76936c814574"
+      Hint: Image
+      Value: |
+        <image mediaid="{07FDFAB4-1288-439E-B0B8-7B4016539B7B}" />
+    - ID: "4fe0bf7f-27e9-4a5b-a54e-988137f49055"
+      Hint: Title
+      Value: Mobile users are great
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5acda04-72ea-4140-991d-642cea377d6a"

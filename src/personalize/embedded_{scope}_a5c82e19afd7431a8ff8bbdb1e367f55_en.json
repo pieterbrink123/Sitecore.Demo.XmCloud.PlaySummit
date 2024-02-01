@@ -1,0 +1,110 @@
+{
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/833ad73d-40a0-4f64-abee-8920baf6c10d",
+  "ref": "833ad73d-40a0-4f64-abee-8920baf6c10d",
+  "name": "embedded_{scope}_a5c82e19afd7431a8ff8bbdb1e367f55_en",
+  "modifiedByRef": "auth0|63f7763376891493a6dfba0a",
+  "modifiedAt": "2024-01-31T07:34:09.457Z",
+  "revision": 9,
+  "archived": false,
+  "friendlyId": "embedded_{scope}_a5c82e19afd7431a8ff8bbdb1e367f55_en",
+  "type": "INTERACTIVE_API_FLOW",
+  "subtype": "EXPERIENCE",
+  "channels": [
+    "WEB"
+  ],
+  "triggers": [],
+  "dashboardLinks": [],
+  "tags": [],
+  "businessProcess": "interactive_v1",
+  "traffic": {
+    "type": "audienceTraffic",
+    "weightingAlgorithm": "USER_DEFINED",
+    "modifiedAt": "2024-01-31T07:34:09.588Z",
+    "splits": [
+      {
+        "template": "{\"variantId\": \"3562e827bc58460d9113d1c19f5b6bc6\"}",
+        "variantName": "Mobile",
+        "audienceName": "Mobile",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "device",
+                "params": {
+                  "is": "is",
+                  "device type(s)": "mobile"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "template": "{\"variantId\": \"6ad66e77cdf64be79bb6640cf6318b6b\"}",
+        "variantName": "Test variant",
+        "audienceName": "Test variant",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "utm_value",
+                "params": {
+                  "type": "medium",
+                  "compares to": "is equal to",
+                  "UTM value": "social"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "variants": [],
+  "transpiledVariants": [
+    {
+      "ref": "fc350a8f-c7ee-4449-bf14-1a890cebbeb3",
+      "name": "Mobile",
+      "tasks": [
+        {
+          "implementation": "templateRenderTask",
+          "input": {
+            "inputType": "templateRenderTaskInput",
+            "type": "application/json",
+            "template": "{\"variantId\": \"3562e827bc58460d9113d1c19f5b6bc6\"}"
+          }
+        },
+        {
+          "implementation": "conditionsTask",
+          "input": {
+            "inputType": "conditionsTaskInput",
+            "rules": [
+              {
+                "id": "scriptCondition",
+                "name": "Combined condition groups",
+                "description": "Combined templates within condition group for targeted experience",
+                "ruleData": {
+                  "expression": "(function () {\n    load(\"classpath:ua-parser.js\");\n    var comparator = \"is\";\n    var deviceTypes = \"mobile\";\n    var deviceTypesArray = deviceTypes.toLowerCase().split(',');\n    var desktopOSTypes = ['Mac OS', 'Windows', 'Ubuntu', 'Unix', 'Linux', 'Chromium OS'];\n    var deviceMatch = false;\n\n    if (request && request.requestDetails && request.requestDetails.headers && request.requestDetails.headers['User-Agent']) {\n        var parser = new UAParser();\n        parser.setUA(request.requestDetails.headers['User-Agent']);\n        var uaParsed = parser.getResult();\n        if (uaParsed.device.type) {\n            var deviceType = uaParsed.device.type.toLowerCase();\n            if (deviceType !== 'mobile' && deviceType !== 'tablet') {\n                deviceMatch = deviceTypesArray.indexOf('other') >= 0;\n            } else {\n                for (var k = 0; k < deviceTypesArray.length; k++) {\n                    if (deviceType === deviceTypesArray[k].toLowerCase()) {\n                        deviceMatch = true;\n                        break;\n                    }\n                }\n            }\n        } else {\n            var device = 'other';\n            if (uaParsed.os.name) {\n                for (var i = 0; i < desktopOSTypes.length; i++) {\n                    if (uaParsed.os.name.toLowerCase() === desktopOSTypes[i].toLowerCase()) {\t\n                        device = 'desktop';\n                        break;\n                    }\n                }\n            }\n            deviceMatch = deviceTypesArray.indexOf(device) >= 0;\n        }\n    }\n    \n    return (comparator === \"is\") && deviceMatch || (comparator === \"is not\") && !deviceMatch;\n})();"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "status": "PRODUCTION",
+  "schedule": {
+    "type": "simpleSchedule",
+    "startDate": "2024-01-30T15:00:49.174Z"
+  },
+  "revisions": {
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/833ad73d-40a0-4f64-abee-8920baf6c10d/revisions"
+  },
+  "sampleSizeConfig": {
+    "baseValue": 0.15,
+    "minimumDetectableDifference": 0.02,
+    "confidenceLevel": 0.95
+  }
+}

@@ -1,0 +1,23 @@
+﻿---
+ID: "a675b2e1-3b0e-47c7-9198-45239bb14b1d"
+Parent: "090f4246-e913-4dc2-bf2d-9e66e6e09559"
+Template: "1381490f-9deb-4c92-a8fa-9c6849a8a783"
+Path: /sitecore/content/PLAY/playwebsite/Data/ShortPromo/Test Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24a77b15-b568-427d-9e08-b801da89e832"
+      Hint: Text
+      Value: <p>You just helped with the demo and you got a personalized experience.</p>
+    - ID: "28e62c9c-c716-4169-9321-76936c814574"
+      Hint: Image
+      Value: |
+        <image mediaid="{08DB49A9-9B48-42FE-8E62-882CC6346891}" />
+    - ID: "4fe0bf7f-27e9-4a5b-a54e-988137f49055"
+      Hint: Title
+      Value: UTM promo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89122f82-654b-4fd6-8ebe-6bb04dd463fc"

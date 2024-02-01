@@ -1,0 +1,458 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "31MHquWaR1",
+    "componentId": "TqCrpIEL9a",
+    "name": "mobile",
+    "description": "",
+    "status": "published",
+    "orderIdx": "0BWGf",
+    "revision": 4,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: NT20-QdIww */ .-grid--custom[data-instance-id=\"NT20-QdIww\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"NT20-QdIww\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NT20-QdIww\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"NT20-QdIww\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:29:14.972Z",
+    "deletedAt": "2024-01-31T19:33:08.031Z",
+    "modifiedAt": "2024-01-31T19:32:33.824Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "31MHquWaR1",
+    "componentId": "TqCrpIEL9a",
+    "name": "mobile",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "0BWGf",
+    "revision": 4,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: NT20-QdIww */ .-grid--custom[data-instance-id=\"NT20-QdIww\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"NT20-QdIww\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NT20-QdIww\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"NT20-QdIww\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:29:14.972Z",
+    "deletedAt": "2024-01-31T19:33:13.534Z",
+    "modifiedAt": "2024-01-31T19:32:33.824Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "31MHquWaR1",
+    "componentId": "TqCrpIEL9a",
+    "name": "mobile",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "0BWGf",
+    "revision": 4,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: NT20-QdIww */ .-grid--custom[data-instance-id=\"NT20-QdIww\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"NT20-QdIww\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NT20-QdIww\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"NT20-QdIww\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:29:14.972Z",
+    "deletedAt": "2024-01-31T19:33:13.534Z",
+    "modifiedAt": "2024-01-31T19:32:33.824Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "gFeq4Yyi5k",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gec",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 8cLMJX6VMT */ .-grid--custom[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"8cLMJX6VMT\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: 8CUchz0Ngd Instance Id: 8cLMJX6VMT */ .-dimensions--[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"8CUchz0Ngd\",\"exampleContent\":null,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":null,\"maxHeight\":null}} */</style><section class=\"-dimensions-- -grid--custom\" data-instance-id=\"8cLMJX6VMT\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:33:19.303Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:35:54.833Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "gFeq4Yyi5k",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gec",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 8cLMJX6VMT */ .-grid--custom[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"8cLMJX6VMT\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: 8CUchz0Ngd Instance Id: 8cLMJX6VMT */ .-dimensions--[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"8CUchz0Ngd\",\"exampleContent\":null,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":null,\"maxHeight\":null}} */</style><section class=\"-dimensions-- -grid--custom\" data-instance-id=\"8cLMJX6VMT\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:33:19.303Z",
+    "deletedAt": "2024-01-31T19:36:27.649Z",
+    "modifiedAt": "2024-01-31T19:35:54.833Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "gFeq4Yyi5k",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gec",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 8cLMJX6VMT */ .-grid--custom[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"8cLMJX6VMT\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: 8CUchz0Ngd Instance Id: 8cLMJX6VMT */ .-dimensions--[data-instance-id=\"8cLMJX6VMT\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"8CUchz0Ngd\",\"exampleContent\":null,\"instanceId\":\"8cLMJX6VMT\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":null,\"maxHeight\":null}} */</style><section class=\"-dimensions-- -grid--custom\" data-instance-id=\"8cLMJX6VMT\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:33:19.303Z",
+    "deletedAt": "2024-01-31T19:36:29.688Z",
+    "modifiedAt": "2024-01-31T19:35:54.833Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "J7KmvRbtYl",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gPsu",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: oCdeS_eNK4 */ .-grid--custom[data-instance-id=\"oCdeS_eNK4\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"oCdeS_eNK4\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"oCdeS_eNK4\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"oCdeS_eNK4\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:36:32.979Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:37:06.143Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "J7KmvRbtYl",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPsu",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: oCdeS_eNK4 */ .-grid--custom[data-instance-id=\"oCdeS_eNK4\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"oCdeS_eNK4\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"oCdeS_eNK4\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"oCdeS_eNK4\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:36:32.979Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:37:06.143Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "J7KmvRbtYl",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPsu",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: oCdeS_eNK4 */ .-grid--custom[data-instance-id=\"oCdeS_eNK4\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"oCdeS_eNK4\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 2; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"oCdeS_eNK4\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":2},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"oCdeS_eNK4\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-31T19:36:32.979Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:37:06.143Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "rU2x5b7pyu",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gPs",
+    "revision": 10,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: M7_3yWleIR */ .-grid--custom[data-instance-id=\"M7_3yWleIR\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 7; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"M7_3yWleIR\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":7},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"M7_3yWleIR\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large",
+      "medium",
+      "small"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-30T09:58:51.471Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:30:19.698Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "rU2x5b7pyu",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPs",
+    "revision": 10,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: M7_3yWleIR */ .-grid--custom[data-instance-id=\"M7_3yWleIR\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 7; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"M7_3yWleIR\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":7},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"M7_3yWleIR\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large",
+      "medium",
+      "small"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-30T09:58:51.471Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:30:19.698Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "rU2x5b7pyu",
+    "componentId": "TqCrpIEL9a",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 10,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: M7_3yWleIR */ .-grid--custom[data-instance-id=\"M7_3yWleIR\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"M7_3yWleIR\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 7; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"M7_3yWleIR\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":6},\"order\":0},{\"from\":{\"row\":1,\"column\":7},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"M7_3yWleIR\"><div><div class=\"-block--media\" data-path-src=\"1381490f9deb4c92a8fa9c6849a8a783.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h3><var data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Title\"></var></h3><div class=\"-embed\" data-path=\"1381490f9deb4c92a8fa9c6849a8a783.Text\"></div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large",
+      "medium",
+      "small"
+    ],
+    "datasourceIds": [
+      "1381490f9deb4c92a8fa9c6849a8a783"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-01-30T09:58:51.471Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-01-31T19:30:19.698Z",
+    "modifiedBy": {
+      "id": "63f7763376891493a6dfba0a",
+      "name": "Pieter Brinkman",
+      "givenName": "Pieter",
+      "familyName": "Brinkman",
+      "email": "pieter.brinkman@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/db352c17eae9baa477f921a38bc7d86e?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpi.png"
+    }
+  }
+]

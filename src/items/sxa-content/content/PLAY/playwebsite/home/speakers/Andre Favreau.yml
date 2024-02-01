@@ -37,30 +37,35 @@ Languages:
       Value: "{63C32663-C4AF-40C0-9347-47411C130E87}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b008655a-5e58-4acc-9779-7eb3a0e0e4c7"
+      Value: "31714fa1-f12a-42c7-b3a1-0d21f360b92b"
     - ID: "adbe3132-d415-414c-941f-9d840ebcf9cd"
       Hint: Sessions
       Value: "{9F8BBA60-5AB7-41E2-9D88-A5335D49407C}|{9E25E09B-971E-409E-AA42-8D54BA7CC570}|{F31705C9-7A5A-42DB-8651-B0665EEEC77B}"
     - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
       Hint: Description
       Value: |
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede posuere.</p>
-        
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede posuere.</p>
-        
+        <p>Andre Favreau is an internationally respected sports technology expert and innovator. With over 20 years of experience in the sports industry, Andre has played a pivotal role in integrating cutting-edge technology into the world of sports and fitness, transforming the way athletes train and compete.<br />
+        <br />
+        Andre is the co-founder and CEO of a pioneering sports technology company, which specializes in developing advanced wearable technology for athletes. His company's products have been widely adopted by professional sports teams and individual athletes around the world, significantly enhancing their performance and competitiveness.<br />
+        <br />
+        Andre holds a Bachelor's degree in Computer Science and a Master's degree in Sports Science. This unique blend of technical knowledge and sports expertise has enabled him to bridge the gap between these two fields, resulting in innovative solutions that have revolutionized the sports industry.<br />
+        <br />
+        A passionate advocate for the application of technology in sports, Andre has been invited to speak at numerous international conferences and forums. His insights into the future of sports technology and its potential impacts on athlete performance and fan engagement are highly sought after.<br />
+        <br />
+        At the PLAY! Summit Conference, Andre will be sharing his vision for the future of sports technology, discussing the latest trends, and offering his predictions for what's to come. His engaging and thought-provoking presentations make him a must-see speaker at the event.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: Professional Basketball Player
+      Value: Bart Lammertyn
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Athlete
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Andre Favreau
+      Value: Bart Lammertyn
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Andre Favreau
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49384" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49384/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/3fcb3ce4bc0d4d778da7a3dc66fa1cb2?v=e3d5a7cb&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Andre Favreau - No background" height="4059" width="4058" />
+        <image mediaid="{A88CE336-EDAB-4D51-96B4-56176DB0A7A3}" />

@@ -40,7 +40,7 @@ Languages:
       Value: "{01E09652-ABD7-4BB0-AD96-E609966330BD}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ec42c0c6-3472-4950-b8f1-a46095b78b59"
+      Value: "e5732525-8ae1-4bca-bf97-2a386a546a28"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Solstice
@@ -50,23 +50,26 @@ Languages:
     - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
       Hint: Description
       Value: |
-        <p>Alex Mena is one of the best in business.</p>
-        
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede posuere.</p>
-        
+        <p>Alex Mena is a globally recognized fitness expert and motivational speaker, best known for his innovative approach to health and wellness. With over two decades of experience in the sports and fitness industry, Alex has established himself as a leading authority, advising both individual clients and multinational corporations.<br />
+        <br />
+        He started his career as a personal trainer and quickly moved up the ranks to become the director of fitness at one of the top fitness chains in the United States. His commitment to improving the health and wellbeing of others led him to develop unique fitness programs that have been implemented in gyms and wellness centers worldwide.<br />
+        <br />
+        Alex holds a master's degree in Exercise Science and Health Promotion, and is a certified Personal Trainer from the American Council on Exercise (ACE). He is also a certified Nutrition Specialist, and a frequent contributor to various health and fitness publications.<br />
+        <br />
+        With his infectious enthusiasm and passion for fitness, Alex has inspired thousands of people to transform their lives through his speeches, workshops, and personal coaching. At the PLAY! Summit Conference, he will share his insights on the latest trends in fitness and wellness, and provide practical tips on how to stay motivated and achieve your health goals.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: International Sales Director
+      Value: RVP Benelux, Sitecore
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Speaker
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Alex Mena
+      Value: Daco Lak
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Alex Mena
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49198" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49198/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/3625d965b17b414c8701baabd2061e38?v=2e088ca3&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Alex Mena - No background" height="3358" width="3358" />
+        <image mediaid="{EEAB610B-3E4E-4B42-944D-3355D644FF9A}" />

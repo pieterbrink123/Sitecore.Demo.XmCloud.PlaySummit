@@ -3,7 +3,6 @@ ID: "9ed598e0-fe64-4a42-947b-df3ce6189ace"
 Parent: "504cac9b-0e68-4bb2-93de-28590cb0dd8a"
 Template: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
 Path: /sitecore/content/PLAY/playwebsite/Settings
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
@@ -87,7 +86,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21b5d63b-5bdb-44b8-bbfa-fbdbb7160b37"
+      Value: "9741463f-ffa3-46d0-8bde-bb27be6f1b46"
     - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
       Hint: ComponentDataSourceTemplates
       Value: |
@@ -95,3 +94,4 @@ Languages:
         {3B884B30-54C1-464C-AADD-F8BD94E7C38E}
         {D8AA73E1-C275-4EEE-BB9D-333925E51952}
         {DFED4457-D760-457A-BEC1-C0DCCDC44381}
+        {1381490F-9DEB-4C92-A8FA-9C6849A8A783}

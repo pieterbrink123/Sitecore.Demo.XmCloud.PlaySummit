@@ -1,0 +1,23 @@
+﻿---
+ID: "116d90e6-9a63-4171-9c7e-93201e3a0f58"
+Parent: "090f4246-e913-4dc2-bf2d-9e66e6e09559"
+Template: "1381490f-9deb-4c92-a8fa-9c6849a8a783"
+Path: /sitecore/content/PLAY/playwebsite/Data/ShortPromo/Mobile Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24a77b15-b568-427d-9e08-b801da89e832"
+      Hint: Text
+      Value: "Thank you for choosing to explore our website on your mobile phone! Your decision to visit us on the go is truly appreciated."
+    - ID: "28e62c9c-c716-4169-9321-76936c814574"
+      Hint: Image
+      Value: |
+        <image mediaid="{E3A27D15-2EEE-4B77-97E1-30EFE38F4300}" />
+    - ID: "4fe0bf7f-27e9-4a5b-a54e-988137f49055"
+      Hint: Title
+      Value: "Thank you!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d27d919-f315-4af4-a2a4-f5b68777c0f5"
